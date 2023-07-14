@@ -1,5 +1,11 @@
 # @segment/analytics-next
 
+## 1.53.1
+
+### Patch Changes
+
+- [#896](https://github.com/segmentio/analytics-next/pull/896) [`48ce3ec`](https://github.com/segmentio/analytics-next/commit/48ce3ecbdea9361dde90481d7c50207613602d52) Thanks [@oscb](https://github.com/oscb)! - Added support for `screen` events for Segment destination
+
 ## 1.53.0
 
 ### Minor Changes
